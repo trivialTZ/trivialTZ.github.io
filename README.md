@@ -1,2 +1,1 @@
-# trivialTZ.github.io
-Academic personal websites
+# personal_website
